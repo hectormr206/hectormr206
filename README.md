@@ -1,4 +1,4 @@
-<a align='center' href="https://hectormr.com" target="_blank"> <img src="https://user-images.githubusercontent.com/45437401/98067273-d406ce00-1e1e-11eb-94d9-5540d43177ff.png" alt="hectormr206" width="100"/> </a>
+<a align='center' href="https://hectormr.com" target="_blank"> <img src="https://user-images.githubusercontent.com/45437401/98067273-d406ce00-1e1e-11eb-94d9-5540d43177ff.png" alt="hectormr206" width="1000"/> </a>
 
 <h1 align="center">Hi 👋, I'm Héctor Martínez 🚀</h1>
 <h3 align="center">A passionate web developer from México</h3>
