@@ -1,4 +1,4 @@
-<a align='center' href="https://hectormr.com" target="_blank"> <img src="https://user-images.githubusercontent.com/45437401/98069393-40d09700-1e24-11eb-98a0-22b087620338.png" alt="hectormr206" width="600"/> </a>
+<p align="center"> <a href="https://hectormr.com" target="_blank"> <img src="https://user-images.githubusercontent.com/45437401/98069393-40d09700-1e24-11eb-98a0-22b087620338.png" alt="hectormr206" width="600"/> </a> </p>
 
 <h1 align="center">Hi 👋, I'm Héctor Martínez 🚀</h1>
 <h3 align="center">A passionate web developer from México</h3>
@@ -8,7 +8,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hectormr206&show_icons=true&locale=en&layout=compact" alt="hectormr206" /></p>
 
-[![hectormr206's github stats](https://github-readme-stats.vercel.app/api?username=hectormr206&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hectormr206&show_icons=true" alt="hectormr206's github stats" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
