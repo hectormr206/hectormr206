@@ -1,4 +1,4 @@
-### Hi, I'm Héctor 🚀
+### Hi, I'm Héctor Martínez 🚀
 
 ![hectormr206](https://user-images.githubusercontent.com/45437401/98067273-d406ce00-1e1e-11eb-94d9-5540d43177ff.png)
 
