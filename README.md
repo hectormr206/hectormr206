@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [my web page.](https://hectormr.com)
 
-- 🌱 I’m currently learning **in Platzi Master.**
+- 🌱 I’m currently learning **in LeonidasEsteban.com**
 
 - 💬 Ask me about **HTML, CSS, Javascript or Fotography.**
 
