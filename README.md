@@ -1,26 +1,40 @@
-<p align="center"> <a href="https://hectormr.com" target="_blank"> <img src="https://user-images.githubusercontent.com/45437401/98069393-40d09700-1e24-11eb-98a0-22b087620338.png" alt="hectormr206" width="600"/> </a> </p>
+# Hola, soy Hector Martinez
 
-<h1 align="center">Hi 👋, I'm Héctor Martínez 🚀</h1>
-<h3 align="center">Thanks for following my work! I am a passionate web developer from México</h3>
+Desarrollador Full-Stack de Queretaro, Mexico. Actualmente construyendo **LifeOS**.
 
-- 🔭 I’m currently working on [my web page.](https://hectormr.com)
+## Que es LifeOS
 
-- 🌱 I’m currently learning **in LeonidasEsteban.com**
+Una distribucion Linux nativa para IA enfocada en inteligencia local, privacidad por defecto y computacion personal soberana.
 
-- 💬 Ask me about **HTML, CSS, Javascript or Fotography.**
+No es solo una idea — es un sistema real que uso todos los dias en mi propia laptop.
 
-- 📫 How to reach me **contac@hectormr.com**
+**Lo que ya funciona hoy:**
 
-- ⚡ Fun fact **In my life I have been a retailer 🛍️, a rose seller 🌹, a computer repairman 🖥️, an order planner 📅, a warehouseman 🏭, a photographer 📷, a videographer 📹 and currently a developer 👨‍💻 and a great husband 💕**
+- Daemon en Rust con 84 herramientas de automatizacion
+- Asistente AI (Axi) que responde por Telegram con voz y texto
+- Inferencia local con modelos como Qwen 3.5
+- Memoria encriptada (AES-GCM-SIV) con 5 capas de persistencia
+- Sistema de reuniones inteligente con transcripcion y diarizacion de voz
+- Calendario con eventos recurrentes y recordatorios proactivos
+- Control del escritorio: ventanas, apps, volumen, brillo, accesibilidad
+- 381 tests automatizados, CI/CD con GitHub Actions
+- Imagen OCI publica en GHCR
 
-<h3 align="left">Statistics from my public GitHub:</h3>
+## Stack principal
 
-[![hectormr206's github stats](https://github-readme-stats.vercel.app/api?username=hectormr206&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+**LifeOS:** Rust, Tokio, Axum, SQLite, Fedora bootc, PipeWire, Wayland, COSMIC DE, Podman
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hectormr206&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+**Web / Freelance:** Next.js, NestJS, PostgreSQL, Docker, n8n, TypeScript
 
-<h3 align="left">See you in:</h3>
-<p align="left">
-<a href="https://twitter.com/hectormr206" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hectormr206" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hectormr206" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hectormr206" height="30" width="40" /></a>
-</p>
+## Proyectos
+
+| Proyecto | Descripcion | Stack |
+|---|---|---|
+| [LifeOS](https://github.com/hectormr206/lifeos) | Linux nativo para IA — local-first, privacy-first | Rust, Fedora bootc |
+| [lifeos-site](https://github.com/hectormr206/lifeos-site) | Landing page de LifeOS | Next.js, TypeScript |
+
+## Contacto
+
+- Web: [hectormr.com](https://hectormr.com)
+- LifeOS: [lifeos.hectormr.com](https://lifeos.hectormr.com)
+- LinkedIn: [hectormr206](https://linkedin.com/in/hectormr206)
